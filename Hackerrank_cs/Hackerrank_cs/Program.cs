@@ -11,6 +11,7 @@
         static void Main(string[] args)
         {
             var tmp = new LisasWorkbook();
+            Console.WriteLine("TESTING");
         }
     }
 }
