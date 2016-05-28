@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbsoluteDifference.cs" />
     <Compile Include="BeautifulPairs.cs" />
     <Compile Include="BinaryNumbers.cs" />
+    <Compile Include="PalindromesQueueAndStack.cs" />
     <Compile Include="HologramSum2DArray.cs" />
     <Compile Include="LisasWorkbook.cs" />
     <Compile Include="PersonStudentInheritance.cs" />
