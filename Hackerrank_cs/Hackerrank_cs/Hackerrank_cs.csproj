@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BeautifulPairs.cs" />
+    <Compile Include="BinaryNumbers.cs" />
     <Compile Include="LisasWorkbook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

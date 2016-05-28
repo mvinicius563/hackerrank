@@ -10,8 +10,7 @@
     {
         static void Main(string[] args)
         {
-            var tmp = new LisasWorkbook();
-            Console.WriteLine("TESTING");
+            var tmp = new BinaryNumbers();
         }
     }
 }
