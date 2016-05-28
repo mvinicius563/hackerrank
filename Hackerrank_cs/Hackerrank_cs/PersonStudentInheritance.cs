@@ -16,11 +16,8 @@ namespace Hackerrank_cs
         class Student : Person
         {
             private int[] testScores;
-            public Student(string firstName, string lastName, int id, int[] scores)
+            public Student(string firstName, string lastName, int id, int[] scores) : base(firstName, lastName, id)
             {
-                this.firstName = firstName;
-                this.lastName = lastName;
-                this.id = id;
                 this.testScores = scores;
             }
 
