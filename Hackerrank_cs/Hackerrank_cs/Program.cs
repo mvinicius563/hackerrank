@@ -10,7 +10,7 @@
     {
         static void Main(string[] args)
         {
-            var tmp = new BinaryNumbers();
+            var tmp = new MaxHologramSum2DArray();
         }
     }
 }
