@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="30DaysOfCode\AbsoluteDifference.cs" />
+    <Compile Include="30DaysOfCode\Sorting.cs" />
     <Compile Include="BeautifulPairs.cs" />
     <Compile Include="30DaysOfCode\BinaryNumbers.cs" />
     <Compile Include="30DaysOfCode\PalindromesQueueAndStack.cs" />
@@ -52,6 +53,7 @@
     <Compile Include="30DaysOfCode\PersonStudentInheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\Utils.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Hackerrank_cs
+namespace Hackerrank_cs._30DaysOfCode
 {
     class BinaryNumbers
     {

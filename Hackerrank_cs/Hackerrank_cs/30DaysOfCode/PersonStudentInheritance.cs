@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hackerrank_cs
+namespace Hackerrank_cs._30DaysOfCode
 {
     class PersonStudentInheritance
     {
