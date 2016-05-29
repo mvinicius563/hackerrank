@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="30DaysOfCode\AbsoluteDifference.cs" />
+    <Compile Include="30DaysOfCode\BSTTraversal.cs" />
     <Compile Include="30DaysOfCode\Sorting.cs" />
     <Compile Include="BeautifulPairs.cs" />
     <Compile Include="30DaysOfCode\BinaryNumbers.cs" />
