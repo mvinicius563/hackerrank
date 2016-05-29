@@ -6,7 +6,7 @@ namespace Hackerrank_cs
     {
         static void Main(string[] args)
         {
-            var tmp = new BSTTraversal();
+            var tmp = new IsPrimeNumber();
         }
     }
 }
