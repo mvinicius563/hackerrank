@@ -43,16 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbsoluteDifference.cs" />
+    <Compile Include="30DaysOfCode\AbsoluteDifference.cs" />
     <Compile Include="BeautifulPairs.cs" />
-    <Compile Include="BinaryNumbers.cs" />
-    <Compile Include="PalindromesQueueAndStack.cs" />
-    <Compile Include="HologramSum2DArray.cs" />
+    <Compile Include="30DaysOfCode\BinaryNumbers.cs" />
+    <Compile Include="30DaysOfCode\PalindromesQueueAndStack.cs" />
+    <Compile Include="30DaysOfCode\HologramSum2DArray.cs" />
     <Compile Include="LisasWorkbook.cs" />
-    <Compile Include="PersonStudentInheritance.cs" />
+    <Compile Include="30DaysOfCode\PersonStudentInheritance.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SherlockAndAnagrams.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
