@@ -47,6 +47,7 @@
     <Compile Include="30DaysOfCode\BitwiseOperations.cs" />
     <Compile Include="30DaysOfCode\BSTTraversal.cs" />
     <Compile Include="30DaysOfCode\IsPrimeNumber.cs" />
+    <Compile Include="30DaysOfCode\MaxRectangularAreaInHistogram.cs" />
     <Compile Include="30DaysOfCode\MoreLinkedLists.cs" />
     <Compile Include="30DaysOfCode\NestedLogicLibraryFine.cs" />
     <Compile Include="30DaysOfCode\RegexEmails.cs" />

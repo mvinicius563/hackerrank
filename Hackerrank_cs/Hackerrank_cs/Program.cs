@@ -6,7 +6,7 @@ namespace Hackerrank_cs
     {
         static void Main(string[] args)
         {
-            var tmp = new BitwiseOperations();
+            var tmp = new MaxRectangularAreaInHistogram();
         }
     }
 }
